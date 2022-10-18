@@ -6,7 +6,7 @@ import random
 
 total = 0
 mylist = []
-trys = 1000000
+trys = 10000
 
 for x in range(trys):
     win = 0
